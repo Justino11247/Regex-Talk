@@ -99,4 +99,4 @@ In summary, this regex pattern efficiently matches valid hex color codes, allowi
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Justin Herrera, I am currently taking the coding bootcamp offered by EdEX and UCI. Please feel free to check out my work on my [Github Profile](https://github.com/Justino11247). Happy Coding!
